@@ -1,6 +1,6 @@
 body {
 background: #FFF;
-font-family: 'Roboto' sans-serif; 
+font-family: "Roboto" sans-serif; 
 color: #434455;
 }
 
@@ -19,7 +19,7 @@ button {
 
 .header .page-logo {
     color: #4D5AE5;
-    font-family: 'Raleway';
+    font-family: "Raleway";
     font-size: 18px;
     font-weight: 700;
     line-height: 1.17;
@@ -29,7 +29,7 @@ button {
 
 .header .half-logo {
         color: #2E2F42;
-        font-family: 'Raleway';
+        font-family: "Raleway";
         font-size: 18px;
         font-weight: 700;
         line-height: 1.17;
@@ -83,7 +83,7 @@ color:#FFF;
 .section-1 .order-button {
         background:#4D5AE5;
         color:#FFF;
-            font-family: 'Roboto';
+            font-family: "Roboto";
             font-size: 16px;
             font-weight: 500;
             line-height: 1.5;
@@ -196,7 +196,7 @@ background:#F4F4FD;
 
 .footer .page-logo {
     color: #4D5AE5;
-        font-family: 'Raleway';
+        font-family: "Raleway";
         font-size: 18px;
         font-weight: 700;
         line-height: 1.17;
