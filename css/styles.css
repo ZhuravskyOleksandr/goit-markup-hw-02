@@ -128,7 +128,7 @@ color:#FFF;
 background:#F4F4FD;
 }
 
-.section-three.list {
+.section-three .list {
     background:#FFFFFF;
 }
 
@@ -138,7 +138,7 @@ background:#F4F4FD;
         font-family: "Roboto";
         font-size: 36px;
         font-weight: 700;
-        line-height: 40px;
+        line-height: 1.11;
         letter-spacing: 0.72px;
         text-transform: capitalize;
 }
