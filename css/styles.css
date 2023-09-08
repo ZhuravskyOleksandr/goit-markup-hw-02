@@ -66,11 +66,11 @@ color:#434455;
     color:#404BBF;
 }
 
-.section-1 {
+.section-one {
     background:#2E2F42;
 }
 
- .main-title {
+ .section-one .main-title {
 color:#FFF;
     text-align: center;
     font-family: "Roboto";
@@ -80,7 +80,7 @@ color:#FFF;
     letter-spacing: 1.12px;
 }
 
- .order-button {
+ .section-one .order-button {
         background:#4D5AE5;
         color:#FFF;
             font-family: "Roboto", sans-serif;
@@ -90,12 +90,12 @@ color:#FFF;
             letter-spacing: 0.64px;
 }
 
-.order-button:hover,
-.order-button:focus {
+.section-one .order-button:hover,
+.section-one .order-button:focus {
     background:#404BBF;
 }
 
-.section-2 .title {
+.section-two .title {
     color:#2E2F42;
         text-align: center;
         font-family: "Roboto";
@@ -106,7 +106,7 @@ color:#FFF;
         text-transform: capitalize;
 }
 
-.section-2 .list-header {
+.section-two .list-header {
 color:#2E2F42;
     font-family: "Roboto";
     font-size: 20px;
@@ -115,7 +115,7 @@ color:#2E2F42;
     letter-spacing: 0.4px;
 }
 
-.section-2 .list-text {
+.section-two .list-text {
 color:#434455;
     font-family: "Roboto";
     font-size: 16px;
@@ -124,15 +124,15 @@ color:#434455;
     letter-spacing: 0.32px;
 }
 
-.section-3 {
+.section-three {
 background:#F4F4FD;
 }
 
-.section-3 .list {
+.section-three.list {
     background:#FFF;
 }
 
-.title {
+.section-three.title {
     color: #2E2F42;
     text-align: center;
     font-family: "Roboto";
@@ -143,7 +143,7 @@ background:#F4F4FD;
     text-transform: capitalize;
 }
 
-.list-header {
+.section-three.list-header {
     color: #2E2F42;
     font-family: "Roboto";
     font-size: 20px;
@@ -152,7 +152,36 @@ background:#F4F4FD;
     letter-spacing: 0.4px;
 }
 
-.list-text {
+.section-three .list-text {
+    color: #434455;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.32px;
+}
+
+.section-four .title {
+    color: #2E2F42;
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.11;
+    letter-spacing: 0.72px;
+    text-transform: capitalize;
+}
+
+.section-four .list-header {
+    color: #2E2F42;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.4px;
+}
+
+.section-four .list-text {
     color: #434455;
     font-family: "Roboto";
     font-size: 16px;
