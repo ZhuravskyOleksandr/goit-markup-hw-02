@@ -70,7 +70,7 @@ color:#434455;
     background:#2E2F42;
 }
 
-.section-1 .main-title {
+ .main-title {
 color:#FFF;
     text-align: center;
     font-family: "Roboto";
@@ -80,7 +80,7 @@ color:#FFF;
     letter-spacing: 1.12px;
 }
 
-.section-1 .order-button {
+ .order-button {
         background:#4D5AE5;
         color:#FFF;
             font-family: "Roboto", sans-serif;
@@ -90,8 +90,8 @@ color:#FFF;
             letter-spacing: 0.64px;
 }
 
-.section-1 .order-button:hover,
-.section-1 .order-button:focus {
+.order-button:hover,
+.order-button:focus {
     background:#404BBF;
 }
 
