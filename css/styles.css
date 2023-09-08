@@ -95,7 +95,7 @@ color:#FFF;
     background:#404BBF;
 }
 
-.section-two .title {
+.section-2 .title {
     color:#2E2F42;
         text-align: center;
         font-family: "Roboto";
@@ -106,7 +106,7 @@ color:#FFF;
         text-transform: capitalize;
 }
 
-.section-two .list-header {
+.section-2 .list-header {
 color:#2E2F42;
     font-family: "Roboto";
     font-size: 20px;
@@ -115,7 +115,7 @@ color:#2E2F42;
     letter-spacing: 0.4px;
 }
 
-.section-two .list-text {
+.section-2 .list-text {
 color:#434455;
     font-family: "Roboto";
     font-size: 16px;
@@ -133,20 +133,19 @@ background:#F4F4FD;
 }
 
 .section-three.title {
-    color:#2E2F42;
+    color: #2E2F42;
     text-align: center;
-    font-family: Roboto;
+    font-family: "Roboto";
     font-size: 36px;
     font-weight: 700;
-    line-height: 40px;
+    line-height: 1.11;
     letter-spacing: 0.72px;
     text-transform: capitalize;
 }
 
 .section-three.list-header {
-    color:#2E2F42;
-    text-align: center;
-    font-family: Roboto;
+    color: #2E2F42;
+    font-family: "Roboto";
     font-size: 20px;
     font-weight: 500;
     line-height: 24px;
@@ -162,18 +161,18 @@ background:#F4F4FD;
     letter-spacing: 0.32px;
 }
 
-.section-four .title {
+.section-4 .title {
     color: #2E2F42;
     text-align: center;
-    font-family: Roboto;
+    font-family: "Roboto";
     font-size: 36px;
     font-weight: 700;
-    line-height: 40px;
+    line-height: 1.11;
     letter-spacing: 0.72px;
     text-transform: capitalize;
 }
 
-.section-four .list-header {
+.section-4 .list-header {
     color: #2E2F42;
     font-family: "Roboto";
     font-size: 20px;
@@ -182,7 +181,7 @@ background:#F4F4FD;
     letter-spacing: 0.4px;
 }
 
-.section-four .list-text {
+.section-4 .list-text {
     color: #434455;
     font-family: "Roboto";
     font-size: 16px;
