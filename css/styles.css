@@ -1,6 +1,6 @@
 body {
 background: #FFF;
-font-family: "Roboto" sans-serif; 
+font-family: "Roboto", sans-serif; 
 color: #434455;
 }
 
@@ -19,7 +19,7 @@ button {
 
 .header .page-logo {
     color: #4D5AE5;
-    font-family: "Raleway";
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
     line-height: 1.17;
@@ -29,7 +29,7 @@ button {
 
 .header .half-logo {
         color: #2E2F42;
-        font-family: "Raleway";
+        font-family: "Raleway", sans-serif;
         font-size: 18px;
         font-weight: 700;
         line-height: 1.17;
@@ -39,7 +39,7 @@ button {
 
 .nav-list {
     color:#2E2F42;
-        font-family: 'Roboto';
+        font-family: "Roboto";
         font-size: 16px;
         font-weight: 500;
         line-height: 24px;
@@ -53,7 +53,7 @@ button {
 
 .contacts {
 color:#434455;
-    font-family: 'Roboto';
+    font-family: "Roboto";
     font-style: normal;
     font-size: 16px;
     font-weight: 400;
@@ -73,7 +73,7 @@ color:#434455;
 .section-1 .main-title {
 color:#FFF;
     text-align: center;
-    font-family: 'Roboto';
+    font-family: "Roboto";
     font-size: 56px;
     font-weight: 700;
     line-height: 1.07;
@@ -83,7 +83,7 @@ color:#FFF;
 .section-1 .order-button {
         background:#4D5AE5;
         color:#FFF;
-            font-family: "Roboto";
+            font-family: "Roboto", sans-serif;
             font-size: 16px;
             font-weight: 500;
             line-height: 1.5;
@@ -98,7 +98,7 @@ color:#FFF;
 .section-2 .title {
     color:#2E2F42;
         text-align: center;
-        font-family: 'Roboto';
+        font-family: "Roboto";
         font-size: 36px;
         font-weight: 700;
         line-height: 40px;
@@ -108,7 +108,7 @@ color:#FFF;
 
 .section-2 .list-header {
 color:#2E2F42;
-    font-family: 'Roboto';
+    font-family: "Roboto";
     font-size: 20px;
     font-weight: 500;
     line-height: 24px;
@@ -117,7 +117,7 @@ color:#2E2F42;
 
 .section-2 .list-text {
 color:#434455;
-    font-family: 'Roboto';
+    font-family: "Roboto";
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
@@ -135,7 +135,7 @@ background:#F4F4FD;
 .section-3 .title {
     color: #2E2F42;
     text-align: center;
-    font-family: 'Roboto';
+    font-family: "Roboto";
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
@@ -145,7 +145,7 @@ background:#F4F4FD;
 
 .section-3 .list-header {
     color: #2E2F42;
-    font-family: 'Roboto';
+    font-family: "Roboto";
     font-size: 20px;
     font-weight: 500;
     line-height: 24px;
@@ -154,7 +154,7 @@ background:#F4F4FD;
 
 .section-3 .list-text {
     color: #434455;
-    font-family: 'Roboto';
+    font-family: "Roboto";
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
@@ -164,7 +164,7 @@ background:#F4F4FD;
 .section-4 .title {
     color: #2E2F42;
     text-align: center;
-    font-family: 'Roboto';
+    font-family: "Roboto";
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
@@ -174,7 +174,7 @@ background:#F4F4FD;
 
 .section-4 .list-header {
     color: #2E2F42;
-    font-family: 'Roboto';
+    font-family: "Roboto";
     font-size: 20px;
     font-weight: 500;
     line-height: 24px;
@@ -183,7 +183,7 @@ background:#F4F4FD;
 
 .section-4 .list-text {
     color: #434455;
-    font-family: 'Roboto';
+    font-family: "Roboto";
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
@@ -196,7 +196,7 @@ background:#F4F4FD;
 
 .footer .page-logo {
     color: #4D5AE5;
-        font-family: "Raleway";
+        font-family: "Raleway", sans-serif;
         font-size: 18px;
         font-weight: 700;
         line-height: 1.17;
@@ -210,7 +210,7 @@ background:#F4F4FD;
 
 .footer .text {
     color:#F4F4FD;
-        font-family: 'Roboto';
+        font-family: "Roboto";
         font-size: 16px;
         font-weight: 400;
         line-height: 24px;
